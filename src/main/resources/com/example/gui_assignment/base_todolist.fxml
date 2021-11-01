@@ -24,6 +24,7 @@
             <MenuItem fx:id="new_todolist" mnemonicParsing="false" onAction="#new_todolist" text="New" />
             <MenuItem mnemonicParsing="false" onAction="#open_todolist" text="Open…" />
                   <MenuItem mnemonicParsing="false" onAction="#open_multiple_todolists" text="Open Multiple.." />
+                  <MenuItem mnemonicParsing="false" onAction="#remove_todolist" text="Remove.." />
             <SeparatorMenuItem mnemonicParsing="false" />
             <MenuItem mnemonicParsing="false" text="Close" />
             <MenuItem mnemonicParsing="false" onAction="#save_current_todolist" text="Save" />
